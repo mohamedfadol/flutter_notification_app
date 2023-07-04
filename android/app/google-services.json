@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "200218989998",
+    "project_id": "notivication-app",
+    "storage_bucket": "notivication-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200218989998:android:715dd5cc10a8f02811e43f",
+        "android_client_info": {
+          "package_name": "com.example.notification_pp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200218989998-r4c8felg4i625naikgv6c5dtpcidrpir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1lOl6A2qWzlCkTrGHcTaAAVQYU49CL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200218989998-r4c8felg4i625naikgv6c5dtpcidrpir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200218989998-9dcupnkclvm3cd4rd93cv6iiqt6t0m1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notificationPp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
